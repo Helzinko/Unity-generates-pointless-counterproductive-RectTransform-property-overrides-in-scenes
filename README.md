@@ -1,0 +1,1 @@
+# Unity-generates-pointless-counterproductive-RectTransform-property-overrides-in-scenes
